@@ -6,13 +6,16 @@ This small module will generate random id, based on **letters** and **numbers**
 
 ## Instalation
 
-`npm install --save randomid-generator`
-`yarn add randomid-generator`
+`npm install --save @shivetay/randomid-generator`
+</br>
+`yarn add @shivetay/randomid-generator`
 
 ### Basic usage
 
 ```
-const randomID = require(randomid-generator);
+const randomID = require('@shivetay/randomid-generator');
 
 console.log(randomID(10));
 ```
+
+Run `node index.js`

@@ -1,0 +1,8 @@
+{
+  "name": "@shivetay/randomid-generator",
+  "version": "1.0.1",
+  "description": "small app for learning purpose. Based on Kodilla bootcamp",
+  "main": "index.js",
+  "author": "Lukasz Dawidowicz",
+  "license": "MIT"
+}
